@@ -1,2 +1,3 @@
-# EDA_and_hypothsis_test
-Did data exploration and conducted hypothesis test.
+# eods-f22-hw1
+
+See notebooks/Homework\_1-UNI.ipynb for instructions.
